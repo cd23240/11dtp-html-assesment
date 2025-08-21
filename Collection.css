@@ -1,0 +1,78 @@
+html, body{
+    margin: auto;
+    height: 100%;
+}
+
+header{
+    position: fixed;
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.726);
+    align-items: center;
+    height: 60px;
+    justify-content: space-around;
+}
+
+header .other{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Home{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+}
+
+.navbar a{
+    margin: 60px;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
+.mainimg1{
+    border: none;
+    height: 55vw;
+}
+
+.mainimg1 img{
+    width: 100vw;
+    height: auto;
+}
+
+.box1{
+    background-color: gray;
+    width: 20vw;
+    height: 20vw;
+}
+
+.box2{
+    background-color: gray;
+    width: 20vw;
+    height: 20vw;
+}
+
+.box3{
+    background-color: gray;
+    width: 20vw;
+    height: 20vw;
+}
+
+.box4{
+    background-color: gray;
+    width: 20vw;
+    height: 20vw;
+}
+
